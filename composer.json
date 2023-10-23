@@ -1,0 +1,17 @@
+{
+    "name": "goillot-13357/create-qr-code",
+    "require": {
+        "endroid/qr-code": "^3.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Goillot13357\\CreateQrCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas",
+            "email": "222teegee@gmail.com"
+        }
+    ]
+}
