@@ -9,5 +9,5 @@
 4. Open your browser and go to `localhost:8000` or `localhost:yourport`
 5. Fill the input and generate your QR code
 
-### Disclaimer:
+### :warning: Disclaimer: :warning:
 This project is for local use only, it is not intended to be used in production. It is not secure and it is not optimized for performance. It is just a simple project to help in my development job.
